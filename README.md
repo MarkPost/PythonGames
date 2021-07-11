@@ -1,2 +1,2 @@
-# WatsonNotebook
-repository for my notebooks
+# Python Games
+Games for python to play around with Python
